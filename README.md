@@ -1,2 +1,0 @@
-# interactivestory
-System.out.printlnsadasdsa
